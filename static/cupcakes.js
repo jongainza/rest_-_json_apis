@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0:5000/api";
+const BASE_URL = "http://127.0.0.1:5000/api";
 
 // given data about a cupcake, generate HTML
 function generateCupcakeHTML(cupcake) {
